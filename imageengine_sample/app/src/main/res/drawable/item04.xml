@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/page"  
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background = "#FFFFFFFF"
+        android:src="@drawable/guide_image_2"
+        android:scaleType="centerCrop"  />
+
+<!--     <ImageButton -->
+<!--         android:id="@+id/imageButton1" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:src="@drawable/usebtn_guide" /> -->
+<TextView
+        android:id="@+id/guidebtnA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp"
+        android:background="@drawable/guide_usebtn"
+        android:gravity="center"
+        android:text="xyz"
+        android:textColor="#ffffff"
+        android:textSize="21.0dip" />
+    
+</LinearLayout>

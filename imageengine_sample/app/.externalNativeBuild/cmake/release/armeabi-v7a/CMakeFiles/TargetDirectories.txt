@@ -1,0 +1,3 @@
+/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/ZPhotoEngine.dir

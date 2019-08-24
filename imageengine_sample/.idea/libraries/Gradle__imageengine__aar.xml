@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: imageengine:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imageengine.aar/a40b91575d5ba9eb4be470f217049169/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imageengine.aar/a40b91575d5ba9eb4be470f217049169/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

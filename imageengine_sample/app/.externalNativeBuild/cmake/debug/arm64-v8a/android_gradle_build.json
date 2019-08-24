@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/src/main/android_cmake/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/zx/Documents/030_tools/adt-bundle/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"ZPhotoEngine-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ZPhotoEngine",
+			"buildCommand" : "/Users/zx/Documents/030_tools/adt-bundle/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/debug/arm64-v8a --target ZPhotoEngine",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DZPhotoEngine_EXPORTS -D_LINUX_ANDROID_ -D__DISABLED_BENCHMARK__ -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__arm64__ -I/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/src/main/android_cmake/./XIUSDK/inc -I/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/src/main/android_cmake/. -isystem /Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/sources/cxx-stl/stlport/stlport -isystem /Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/sources/cxx-stl/gabi++/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wno-error=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wno-error=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/src/main/android_cmake/jni_Interface.cpp",
+					"workingDirectory" : "/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/cmake/debug/obj/arm64-v8a/libZPhotoEngine.so",
+			"toolchain" : "9816725877857155412"
+		}
+	},
+	"toolchains" : 
+	{
+		"9816725877857155412" : 
+		{
+			"cCompilerExecutable" : "/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

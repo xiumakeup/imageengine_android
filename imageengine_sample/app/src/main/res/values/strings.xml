@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="app_name">秀图</string>
+    <string name="skinwhite">美白</string>
+    <string name="softskin">磨皮</string>
+    <string name="filterid">滤镜ID</string>
+    <string name="PIX">分辨率</string>
+    <string name="FPS">帧率</string>
+    <string name="zp">秀图</string>
+    
+        <string name="bottom_bc">B/C</string>
+    <string name="bottom_colortempeature">色温</string>
+    <string name="bottom_exposure">曝光</string>
+    <string name="bottom_rotate">旋转</string>
+    <string name="bottom_saturation">饱和度</string>
+    <string name="bottom_sharpen">清晰度</string>
+    <string name="bottom_light">明度</string>
+    <string name="bottom_highlight">高光</string>
+    <string name="bottom_shadow">阴影</string>
+    <string name="bottom_moscia">马赛克</string>
+    <string name="bottom_gray">去色</string>
+    <string name="initial_txt">0</string>
+        <string name="bright">亮度:</string>
+    <string name="contrast">对比度:</string>
+    <string name="title_bc">亮度对比度</string>
+     <string name="guide_start">Welcome</string>
+     <string name="bottom_hue">色相</string>
+     <string name="bottom_gamma">Gamma</string>
+     
+     
+     <string name="yuantu">原图</string>
+     <string name="nuannuan">暖暖</string>
+     <string name="qingxi">清晰</string>
+     <string name="baixi">白皙</string>
+     <string name="lengyan">冷艳</string>
+     <string name="bingling">冰灵</string>
+     <string name="dianya">典雅</string>
+     <string name="landiao">蓝调</string>
+     <string name="luoli">萝莉</string>
+     <string name="luokk">洛可可</string>
+     <string name="nuanhuang">暖黄</string>
+     <string name="qingchun">清纯</string>
+     <string name="rixi">日系</string>
+     <string name="rouguang">柔光</string>
+     <string name="tianmei">甜美</string>
+     <string name="weimei">唯美</string>
+     <string name="liren">丽人</string>
+     <string name="guodong">果冻</string>
+     <string name="huayan">花颜</string>
+     <string name="luozhuang">裸妆</string>
+     <string name="nenhong">嫩红</string>
+     <string name="yishu">艺术</string>
+     <string name="meifu">美肤</string>
+     <string name="hongrun">红润</string>
+     <string name="jingmei">靓美</string>
+     <string name="ziyun">紫韵</string>
+     <string name="danya">淡雅</string>
+     <string name="qingxin">清新</string>
+     <string name="roumei">柔美</string>
+     <string name="wennuan">温暖</string>
+     <string name="nnyangguang">暖阳</string>
+     <string name="tianmeikeren">甜心</string>
+     <string name="abaose">阿宝色</string>
+     <string name="langman">浪漫</string>
+     <string name="qingtou">清透</string>
+     <string name="zhenbai">臻白</string>
+     <string name="ziran">自然</string> 
+     
+     <string name="savetxt">照片已保存到相册XIUIMAGE</string>
+     <string name="filtertitle">美颜滤镜</string>
+     <string name="edittitle">照片美化</string>
+     <string name="savetitle">图片保存</string>
+     <string name="download">More</string>
+     
+    <string name="bottom_mopi">磨皮</string>
+    <string name="bottom_meibai">美白</string>
+    <string name="bottom_dayan">大眼</string>
+    <string name="bottom_shoulian">瘦脸</string>
+    <string name="bottom_qudou">祛斑</string>
+    <string name="bottom_liangyan">亮眼</string>
+    <string name="bottom_gaobiliang">高鼻梁</string>
+    <string name="bottom_quyandai">去眼袋</string>
+    <string name="beautyface_title">高级美颜</string>
+    <string name="beautyface_quban_txt">祛斑：</string>
+    
+    <string name="facedetect">facedetect success！</string>
+    <string name="facedetectfail">facedetect fail, try another picture！</string>
+    <string name="networkfailed">network failed, try again please!</string>
+    <string name="loading">loading...</string>
+
+</resources>

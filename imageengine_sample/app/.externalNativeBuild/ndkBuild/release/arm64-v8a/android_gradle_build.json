@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Android.mk",
+    "/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "ZPhotoEngine-release-arm64-v8a": {
+      "buildCommand": "/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/lib /Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libZPhotoEngine.so",
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "ZPhotoEngine",
+      "files": [
+        {
+          "src": "/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/jni_Interface.cpp",
+          "flags": "-fpic -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -g -fno-exceptions -fno-rtti -O2 -DNDEBUG -I/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/XIUSDK/inc -I/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/sources/cxx-stl/stlport/stlport -I/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/sources/cxx-stl//gabi++/include -I/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni -DANDROID -g -Wa,--noexecstack -Wformat -Werror\u003dformat-security -frtti -fexceptions -isystem /Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/platforms/android-21/arch-arm64/usr/include"
+        }
+      ],
+      "output": "/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libZPhotoEngine.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cppCompilerExecutable": "/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64/bin/aarch64-linux-android-g++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,18 @@
+Executable : /Users/zx/Documents/030_tools/adt-bundle/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/src/main/android_cmake
+-B/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/.externalNativeBuild/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-18
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zx/Documents/001_svn/003_svn/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle
+-DCMAKE_CXX_FLAGS=-std=c++11 -fexceptions
+-DCMAKE_TOOLCHAIN_FILE=/Users/zx/Documents/030_tools/adt-bundle/sdk/cmake/3.6.4111459/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/zx/Documents/030_tools/adt-bundle/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_DISABLE_FORMAT_STRING_CHECKS=TRUE
+-DANDROID_STL=stlport_static
+jvmArgs : 
+

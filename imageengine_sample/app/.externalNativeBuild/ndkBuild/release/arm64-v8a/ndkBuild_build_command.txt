@@ -1,0 +1,17 @@
+Executable : /Users/zx/Documents/030_tools/adt-bundle/sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Android.mk
+NDK_APPLICATION_MK=/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/makefile/001_android_jni/jni/Application.mk
+APP_ABI=arm64-v8a
+NDK_ALL_ABIS=arm64-v8a
+NDK_DEBUG=0
+APP_PLATFORM=android-21
+NDK_OUT=/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/Users/zx/Documents/001_svn/003_svn_ho/svn/002_beauty/002_xiusdk/android/samples/xiusdkdemo_as/app/build/intermediates/ndkBuild/release/lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

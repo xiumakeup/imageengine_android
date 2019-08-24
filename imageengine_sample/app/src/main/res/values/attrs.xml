@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources>
+    <attr name="imageSrc" format="reference"/>
+    <attr name="imageAspectRatio" format="float"/>
+    <attr name="imagePaddingLeft" format="dimension"/>
+    <attr name="imagePaddingTop" format="dimension"/> 
+    <attr name="imagePaddingRight" format="dimension"/>
+    <attr name="imagePaddingBottom" format="dimension"/>
+    <attr name="imageScaleType">
+        <enum name="fillXY" value="0"/>
+        <enum name="center" value="1"/>
+    </attr>
+    <attr name="titleText" format="string|reference"/>
+    <attr name="titleTextSize" format="dimension"/>
+    <attr name="titleTextColor" format="color"/>
+    <attr name="titlePaddingLeft" format="dimension"/> 
+    <attr name="titlePaddingTop" format="dimension"/>
+    <attr name="titlePaddingRight" format="dimension"/>
+    <attr name="titlePaddingBottom" format="dimension"/>
+    <declare-styleable name="TImageView">
+        <attr name="imageSrc"/>
+        <attr name="imageAspectRatio"/> 
+        <attr name="imagePaddingLeft" />
+        <attr name="imagePaddingTop" />
+        <attr name="imagePaddingRight" />
+        <attr name="imagePaddingBottom" /> 
+        <attr name="imageScaleType" /> 
+        <attr name="titleText" /> 
+        <attr name="titleTextSize" /> 
+        <attr name="titleTextColor" /> 
+        <attr name="titlePaddingLeft" />
+        <attr name="titlePaddingTop" /> 
+        <attr name="titlePaddingRight" />
+        <attr name="titlePaddingBottom" />
+    </declare-styleable>
+    
+</resources>

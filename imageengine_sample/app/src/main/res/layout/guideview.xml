@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/guidePages"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+       
+    <RelativeLayout  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        android:orientation="vertical" >
+    <LinearLayout  
+        android:id="@+id/viewGroup"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        android:layout_alignParentBottom="true"  
+        android:layout_marginBottom="30dp"  
+        android:gravity="center_horizontal"  
+        android:orientation="horizontal" >  
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/guidebtn"
+        android:layout_width="180dp"
+        android:layout_height="54dp"
+        android:layout_above="@+id/viewGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="14dp"
+        android:background="@drawable/guide_usebtn"
+        android:gravity="center"
+        android:text="@string/guide_start"
+        android:textColor="#ffffff"
+        android:textSize="21.0dip" />
+  
+    </RelativeLayout>
+
+</FrameLayout>
